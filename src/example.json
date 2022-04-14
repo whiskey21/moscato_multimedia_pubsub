@@ -1,0 +1,36 @@
+{
+  "||": [
+    {
+      "&&": [
+        {
+          "==": {
+            "attribute": "job",
+            "value": "doctor"
+          }
+        },
+        {
+          ">=": {
+            "attribute": "age",
+            "value": 40
+          }
+        }
+      ]
+    },
+    {
+      "&&" : [
+        {
+          "==": {
+          "attribute": "job",
+          "value": "programmer"
+          }
+        },
+        {
+          "<": {
+            "atrribute": "age",
+            "value": 30
+          }
+        }
+      ]
+    }
+  ]
+}

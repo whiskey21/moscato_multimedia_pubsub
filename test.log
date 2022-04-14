@@ -1,0 +1,41 @@
+2022-01-02T15:43:21.444+0900	[34mINFO[0m	current machine address : 192.168.0.77 / MM address : 127.0.0.1
+2022-01-02T15:43:21.445+0900	[35mDEBUG[0m	private key : 3547138460
+2022-01-02T15:43:21.447+0900	[34mINFO[0m	RM sent
+2022-01-02T15:43:21.447+0900	[35mDEBUG[0m	[MM] RM received
+2022-01-02T15:43:21.453+0900	[34mINFO[0m	MM Registered this node Complete!
+2022-01-02T15:46:14.173+0900	[34mINFO[0m	current machine address : 192.168.0.77 / MM address : 127.0.0.1
+2022-01-02T15:46:14.174+0900	[35mDEBUG[0m	private key : 1652718355
+2022-01-02T15:46:14.175+0900	[34mINFO[0m	RM sent
+2022-01-02T15:46:14.175+0900	[35mDEBUG[0m	[MM] RM received
+2022-01-02T15:46:14.181+0900	[34mINFO[0m	MM Registered this node Complete!
+2022-01-02T15:46:25.988+0900	[34mINFO[0m	sending Subscription messages
+2022-01-02T15:48:06.443+0900	[34mINFO[0m	current machine address : 192.168.0.77 / MM address : 127.0.0.1
+2022-01-02T15:48:06.443+0900	[35mDEBUG[0m	private key : 2580440694
+2022-01-02T15:48:06.445+0900	[34mINFO[0m	RM sent
+2022-01-02T15:48:06.445+0900	[35mDEBUG[0m	[MM] RM received
+2022-01-02T15:48:19.445+0900	[34mINFO[0m	current machine address : 192.168.0.77 / MM address : 127.0.0.1
+2022-01-02T15:48:19.445+0900	[35mDEBUG[0m	private key : 2861559125
+2022-01-02T15:48:19.448+0900	[34mINFO[0m	RM sent
+2022-01-02T15:48:19.452+0900	[35mDEBUG[0m	[MM] RM received
+2022-01-02T15:48:19.458+0900	[34mINFO[0m	MM Registered this node Complete!
+2022-01-02T15:48:22.290+0900	[34mINFO[0m	sending Subscription messages
+2022-01-02T15:59:46.422+0900	[34mINFO[0m	current machine address : 192.168.0.77 / MM address : 127.0.0.1
+2022-01-02T15:59:46.422+0900	[35mDEBUG[0m	private key : 1320653589
+2022-01-02T15:59:46.424+0900	[34mINFO[0m	RM sent
+2022-01-02T15:59:46.424+0900	[35mDEBUG[0m	[MM] RM received
+2022-01-02T15:59:46.437+0900	[34mINFO[0m	MM Registered this node Complete!
+2022-01-02T15:59:49.270+0900	[34mINFO[0m	sending Subscription messages
+2022-01-02T16:00:17.004+0900	[34mINFO[0m	current machine address : 192.168.0.77 / MM address : 127.0.0.1
+2022-01-02T16:00:17.005+0900	[35mDEBUG[0m	private key : 560452067
+2022-01-02T16:00:17.006+0900	[34mINFO[0m	RM sent
+2022-01-02T16:00:17.006+0900	[35mDEBUG[0m	[MM] RM received
+2022-01-02T16:00:29.424+0900	[34mINFO[0m	current machine address : 192.168.0.77 / MM address : 127.0.0.1
+2022-01-02T16:00:29.424+0900	[35mDEBUG[0m	private key : 213155866
+2022-01-02T16:00:29.426+0900	[34mINFO[0m	RM sent
+2022-01-02T16:00:29.426+0900	[35mDEBUG[0m	[MM] RM received
+2022-01-02T16:00:29.440+0900	[34mINFO[0m	MM Registered this node Complete!
+2022-01-02T16:00:32.131+0900	[34mINFO[0m	sending Subscription messages
+2022-01-02T16:08:17.494+0900	[34mINFO[0m	current machine address : 192.168.0.77 / MM address : 127.0.0.1
+2022-01-02T16:08:17.496+0900	[34mINFO[0m	RM sent
+2022-01-02T16:08:17.503+0900	[34mINFO[0m	MM Registered this node Complete!
+2022-01-02T16:08:20.647+0900	[34mINFO[0m	sending Subscription messages
